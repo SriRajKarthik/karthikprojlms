@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    animation: bgcolor infinite 10s;
+}
+
+@keyframes bgcolor {
+    100% {
+        background: #ffffff;
+    }
+}
